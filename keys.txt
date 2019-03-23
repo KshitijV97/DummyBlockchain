@@ -1,0 +1,5 @@
+Your public key (also your wallet address, freely shareable)
+ 04fd298a5866b253845e755830fdf8bb57496f38aacaf2ac02b5d1341fec50a60d2a8907af8bde936309d5a3ae99d96ed1122e07ad32a5f5772b32b6ff21d8429d
+
+Your private key (keep this secret! To sign transactions)
+ 5b93964a08ee3cf70858a718f1d3e0d6ffac1c37628f625b94e3b9dc6c40637c
